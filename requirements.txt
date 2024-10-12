@@ -1,0 +1,6 @@
+requests==2.31.0
+click==8.1.7
+curl-cffi==0.7.1
+fake-useragent==1.5.1
+loguru==0.7.2
+beautifulsoup4==4.12.3
